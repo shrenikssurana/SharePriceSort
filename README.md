@@ -30,7 +30,7 @@ Usage :
 extract all the attached files in a directory and run the following command :
 <br>
 <code>
-<strong>python sharesSortingtest.py</strong>
+<strong>python sharesSorttest.py</strong>
 </code>
 
   
